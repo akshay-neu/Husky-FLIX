@@ -1,0 +1,25 @@
+/* SCSS styling for MainImage component */
+.mainMovieImage {
+    // background: linear-gradient(rgba(0,0,0,0) 39%,rgba(0,0,0,0) 41%,rgba(0,0,0,0.65) 100%) black;
+    height: 500px;
+    background-size: 100%;
+    background-position: center center;
+    width: 100%;
+    position: relative;
+}
+
+.textPosition {
+    position: absolute;
+    max-width: 500px;
+    bottom: 2rem;
+    margin-left: 2rem;
+}
+
+.styleHeading {
+    color: white;
+}
+
+.styleIntro {
+    color: white;
+    font-size: 1rem;
+}

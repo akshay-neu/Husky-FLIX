@@ -1,0 +1,17 @@
+/* SCSS styling for MovieDetails component */
+
+.bodyMovie {
+    width: 85%;
+    margin: 1rem auto;
+}
+
+.actorGrid {
+    display: flex; 
+    justify-content: center; 
+    margin: 2rem;
+}
+
+.likeDislikeButton {
+    display: flex;
+     justify-content: center 
+}
